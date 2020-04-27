@@ -22,6 +22,10 @@ A clear and concise description of what the bug is.
 
 A clear and concise description of what you expected to happen.
 
+**Actual behaviour**
+
+A clear and detailed description including stack traces and logs about what really happened. Make sure to mask/remove any private data.
+
 **Screenshots**
 
 If applicable, add screenshots to help explain your problem.
