@@ -17,6 +17,7 @@ Provide a short meaningful description about the changes you've made.
 - [ ] Not needed
 - [ ] Unit tests added
 - [ ] Integration tests added
+- [ ] Visual verification done
 
 ## Related Tickets & Documents
 
