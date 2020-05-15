@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: "Search the Paytrail Support Website"
+    url: "https://support.paytrail.com/hc/en-us"
+    about: "See if your question has been answered here."
+  - name: "Contact Our Customer Service"
+    url: "https://www.paytrail.com/en/contact"
+    about: "Don't know where to ask your question? We are here to help!"
+    
